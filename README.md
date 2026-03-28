@@ -85,7 +85,7 @@ The trained model achieved **~82% accuracy**, effectively classifying weather ty
 ```
 📦 DL_Project_Weather_Prediction_System
 │
-├── ibm_dl_model_weather_prediction.ipynb   # Jupyter Notebook with full project code
+├── dl_model_weather_prediction.ipynb   # Jupyter Notebook with full project code
 ├── seattle-weather.csv                     # Dataset used for training
 └── README.md                               # Project documentation (this file)
 ```
@@ -110,7 +110,7 @@ The trained model achieved **~82% accuracy**, effectively classifying weather ty
 3. Run the notebook:
 
    ```bash
-   jupyter notebook ibm_dl_model_weather_prediction.ipynb
+   jupyter notebook dl_model_weather_prediction.ipynb
    ```
 
 4. Train and test the model — predictions will be shown at the end.
